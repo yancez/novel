@@ -1,0 +1,605 @@
+{
+    "searchHotWords": [
+        {
+            "word": "斗罗大陆",
+            "times": 253,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "剑来",
+            "times": 161,
+            "isNew": 0,
+            "soaring": 4
+        },
+        {
+            "word": "武动乾坤",
+            "times": 156,
+            "isNew": 0,
+            "soaring": 1
+        },
+        {
+            "word": "万族之劫",
+            "times": 156,
+            "isNew": 0,
+            "soaring": 3
+        },
+        {
+            "word": "第一序列",
+            "times": 156,
+            "isNew": 0,
+            "soaring": 4
+        },
+        {
+            "word": "元尊",
+            "times": 153,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "一念永恒",
+            "times": 148,
+            "isNew": 0,
+            "soaring": 4
+        },
+        {
+            "word": "斗破苍穹",
+            "times": 147,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "圣墟",
+            "times": 145,
+            "isNew": 0,
+            "soaring": -1
+        },
+        {
+            "word": "凡人修仙传",
+            "times": 140,
+            "isNew": 0,
+            "soaring": -8
+        },
+        {
+            "word": "大奉打更人",
+            "times": 126,
+            "isNew": 0,
+            "soaring": -1
+        },
+        {
+            "word": "万古神帝",
+            "times": 118,
+            "isNew": 0,
+            "soaring": 11
+        },
+        {
+            "word": "遮天",
+            "times": 118,
+            "isNew": 0,
+            "soaring": 4
+        },
+        {
+            "word": "诡秘之主",
+            "times": 116,
+            "isNew": 0,
+            "soaring": -1
+        },
+        {
+            "word": "我师兄实在太稳健了",
+            "times": 115,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "逆天邪神",
+            "times": 115,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "雪中悍刀行",
+            "times": 112,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "伏天氏",
+            "times": 112,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "帝霸",
+            "times": 111,
+            "isNew": 0,
+            "soaring": 7
+        },
+        {
+            "word": "超神机械师",
+            "times": 110,
+            "isNew": 0,
+            "soaring": -5
+        },
+        {
+            "word": "轮回乐园",
+            "times": 108,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "斗罗",
+            "times": 108,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "三寸人间",
+            "times": 107,
+            "isNew": 0,
+            "soaring": 5
+        },
+        {
+            "word": "完美世界",
+            "times": 103,
+            "isNew": 0,
+            "soaring": 5
+        },
+        {
+            "word": "万道龙皇",
+            "times": 102,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "唐家三少",
+            "times": 101,
+            "isNew": 0,
+            "soaring": -2
+        },
+        {
+            "word": "天蚕土豆",
+            "times": 99,
+            "isNew": 0,
+            "soaring": 4
+        },
+        {
+            "word": "全职法师",
+            "times": 98,
+            "isNew": 0,
+            "soaring": 10
+        },
+        {
+            "word": "全球高武",
+            "times": 96,
+            "isNew": 0,
+            "soaring": 10
+        },
+        {
+            "word": "武炼巅峰",
+            "times": 94,
+            "isNew": 0,
+            "soaring": 3
+        },
+        {
+            "word": "我的",
+            "times": 93,
+            "isNew": 0,
+            "soaring": 3
+        },
+        {
+            "word": "赘婿",
+            "times": 92,
+            "isNew": 0,
+            "soaring": 3
+        },
+        {
+            "word": "元龙",
+            "times": 92,
+            "isNew": 0,
+            "soaring": -11
+        },
+        {
+            "word": "斗罗大陆IV终极斗罗",
+            "times": 90,
+            "isNew": 0,
+            "soaring": -2
+        },
+        {
+            "word": "大主宰",
+            "times": 89,
+            "isNew": 0,
+            "soaring": -8
+        },
+        {
+            "word": "修真聊天群",
+            "times": 87,
+            "isNew": 0,
+            "soaring": 1
+        },
+        {
+            "word": "上门龙婿",
+            "times": 87,
+            "isNew": 0,
+            "soaring": 16
+        },
+        {
+            "word": "沧元图",
+            "times": 86,
+            "isNew": 0,
+            "soaring": -8
+        },
+        {
+            "word": "琉璃美人煞",
+            "times": 86,
+            "isNew": 0,
+            "soaring": 6
+        },
+        {
+            "word": "辰东",
+            "times": 83,
+            "isNew": 0,
+            "soaring": 24
+        },
+        {
+            "word": "我的徒弟都是大反派",
+            "times": 83,
+            "isNew": 0,
+            "soaring": 6
+        },
+        {
+            "word": "牧神记",
+            "times": 82,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "庆余年",
+            "times": 82,
+            "isNew": 0,
+            "soaring": 11
+        },
+        {
+            "word": "系统",
+            "times": 81,
+            "isNew": 0,
+            "soaring": -4
+        },
+        {
+            "word": "盗墓笔记",
+            "times": 81,
+            "isNew": 0,
+            "soaring": -9
+        },
+        {
+            "word": "天下第九",
+            "times": 80,
+            "isNew": 0,
+            "soaring": 4
+        },
+        {
+            "word": "我老婆是大明星",
+            "times": 80,
+            "isNew": 0,
+            "soaring": 14
+        },
+        {
+            "word": "柯学验尸官",
+            "times": 79,
+            "isNew": 0,
+            "soaring": 0
+        },
+        {
+            "word": "海贼之苟到大将",
+            "times": 78,
+            "isNew": 0,
+            "soaring": 16
+        },
+        {
+            "word": "终极斗罗",
+            "times": 78,
+            "isNew": 0,
+            "soaring": 7
+        },
+        {
+            "word": "九星毒奶",
+            "times": 77,
+            "isNew": 0,
+            "soaring": 27
+        },
+        {
+            "word": "火影",
+            "times": 76,
+            "isNew": 0,
+            "soaring": -11
+        },
+        {
+            "word": "大王饶命",
+            "times": 76,
+            "isNew": 0,
+            "soaring": 9
+        },
+        {
+            "word": "仙逆",
+            "times": 74,
+            "isNew": 0,
+            "soaring": -5
+        },
+        {
+            "word": "神秘复苏",
+            "times": 74,
+            "isNew": 0,
+            "soaring": 24
+        },
+        {
+            "word": "我有一座恐怖屋",
+            "times": 74,
+            "isNew": 0,
+            "soaring": -13
+        },
+        {
+            "word": "一剑独尊",
+            "times": 73,
+            "isNew": 0,
+            "soaring": 39
+        },
+        {
+            "word": "神墓",
+            "times": 73,
+            "isNew": 0,
+            "soaring": -14
+        },
+        {
+            "word": "明天下",
+            "times": 73,
+            "isNew": 0,
+            "soaring": 16
+        },
+        {
+            "word": "诸界末日在线",
+            "times": 73,
+            "isNew": 0,
+            "soaring": 6
+        },
+        {
+            "word": "大梦主",
+            "times": 72,
+            "isNew": 0,
+            "soaring": -6
+        },
+        {
+            "word": "我真不是魔神",
+            "times": 71,
+            "isNew": 0,
+            "soaring": 30
+        },
+        {
+            "word": "当医生开了外挂",
+            "times": 69,
+            "isNew": 0,
+            "soaring": -4
+        },
+        {
+            "word": "快穿",
+            "times": 69,
+            "isNew": 0,
+            "soaring": 26
+        },
+        {
+            "word": "仙武帝尊",
+            "times": 69,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "吞噬星空",
+            "times": 68,
+            "isNew": 0,
+            "soaring": 3
+        },
+        {
+            "word": "校花的贴身高手",
+            "times": 68,
+            "isNew": 0,
+            "soaring": -7
+        },
+        {
+            "word": "少年阿宾",
+            "times": 68,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "明尊",
+            "times": 68,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "问道红尘",
+            "times": 67,
+            "isNew": 0,
+            "soaring": 14
+        },
+        {
+            "word": "我有一座冒险屋",
+            "times": 67,
+            "isNew": 0,
+            "soaring": 27
+        },
+        {
+            "word": "魔道祖师",
+            "times": 67,
+            "isNew": 0,
+            "soaring": 13
+        },
+        {
+            "word": "黎明之剑",
+            "times": 67,
+            "isNew": 0,
+            "soaring": -21
+        },
+        {
+            "word": "小阁老",
+            "times": 67,
+            "isNew": 0,
+            "soaring": 14
+        },
+        {
+            "word": "蛊真人",
+            "times": 67,
+            "isNew": 0,
+            "soaring": -24
+        },
+        {
+            "word": "极品家丁",
+            "times": 67,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "玩家凶猛",
+            "times": 67,
+            "isNew": 0,
+            "soaring": -31
+        },
+        {
+            "word": "大周仙吏",
+            "times": 66,
+            "isNew": 0,
+            "soaring": -2
+        },
+        {
+            "word": "撒野",
+            "times": 66,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "临渊行",
+            "times": 65,
+            "isNew": 0,
+            "soaring": -3
+        },
+        {
+            "word": "惊悚乐园",
+            "times": 65,
+            "isNew": 0,
+            "soaring": -10
+        },
+        {
+            "word": "求魔",
+            "times": 65,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "九星霸体诀",
+            "times": 65,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "大道纪",
+            "times": 64,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "重生",
+            "times": 64,
+            "isNew": 0,
+            "soaring": -65
+        },
+        {
+            "word": "鬼吹灯",
+            "times": 64,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "修罗武神",
+            "times": 62,
+            "isNew": 0,
+            "soaring": -13
+        },
+        {
+            "word": "天启预报",
+            "times": 62,
+            "isNew": 0,
+            "soaring": -21
+        },
+        {
+            "word": "金鳞岂是池中物",
+            "times": 62,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "史上最强炼气期",
+            "times": 62,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "从1983开始",
+            "times": 61,
+            "isNew": 0,
+            "soaring": -8
+        },
+        {
+            "word": "学霸的黑科技系统",
+            "times": 61,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "最强反套路系统",
+            "times": 60,
+            "isNew": 0,
+            "soaring": -25
+        },
+        {
+            "word": "全职高手",
+            "times": 60,
+            "isNew": 0,
+            "soaring": -5
+        },
+        {
+            "word": "魔临",
+            "times": 60,
+            "isNew": 0,
+            "soaring": -23
+        },
+        {
+            "word": "最强狂兵",
+            "times": 60,
+            "isNew": 0,
+            "soaring": -10
+        },
+        {
+            "word": "兽血沸腾",
+            "times": 59,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "龙族",
+            "times": 59,
+            "isNew": 1,
+            "soaring": 0
+        },
+        {
+            "word": "精灵掌门人",
+            "times": 59,
+            "isNew": 0,
+            "soaring": -29
+        },
+        {
+            "word": "大道朝天",
+            "times": 59,
+            "isNew": 0,
+            "soaring": -20
+        }
+    ],
+    "ok": true
+}

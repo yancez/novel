@@ -1,0 +1,163 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6499134",
+      "name": "光照度",
+      "font_class": "guangzhaodu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "9764692",
+      "name": "光照",
+      "font_class": "guangzhao",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "11698368",
+      "name": "添加图标",
+      "font_class": "jia",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "12615380",
+      "name": "目录",
+      "font_class": "mulu",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "13738169",
+      "name": "书架",
+      "font_class": "shujia",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "15838444",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "15838445",
+      "name": "check-item",
+      "font_class": "check-item",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "15838447",
+      "name": "comment",
+      "font_class": "comment",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "15838458",
+      "name": "data-view",
+      "font_class": "data-view",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "15838467",
+      "name": "elipsis",
+      "font_class": "elipsis",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "15838469",
+      "name": "explain",
+      "font_class": "explain",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "15838473",
+      "name": "error",
+      "font_class": "error",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "15838474",
+      "name": "favorite",
+      "font_class": "favorite",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "15838475",
+      "name": "file-common",
+      "font_class": "file-common",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "15838485",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "15838505",
+      "name": "modular",
+      "font_class": "modular",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "15838525",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "15838530",
+      "name": "select",
+      "font_class": "select",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "15838539",
+      "name": "text",
+      "font_class": "text",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838566",
+      "name": "arrow-right-bold",
+      "font_class": "arrow-right-bold",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "16307098",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
